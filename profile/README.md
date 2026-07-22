@@ -21,6 +21,6 @@ Our [Discord](https://duckorg.com/discord), our [Status Page](https://status.duc
 * Duck Organization was originally named Quest Organization! Now it's only our bot, Quest Bot.
 * We don't have an HQ... nor are we looking for one!
 
-### ❤️ Thanks for reading this, Duck Organization.
+### Thanks for reading this, Duck Organization.
 
 Made with ❤️ in the Netherlands.
