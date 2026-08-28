@@ -16,7 +16,7 @@ Our [Discord](https://vantern.org/discord), our [Status Page](https://status.van
 
 ## Fun Facts
 
-* Vantern originally was named Duck Organization and Quest Organization! Now only our bot is named, Quest (Bot).
+* Vantern originally was named Duck Organization and Quest Organization! Now only our Discord Bot is named Quest.
 * We don't have an HQ... nor are we looking for one!
 
 #### Thanks for reading this, Vantern <3
